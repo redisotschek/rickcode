@@ -1,4 +1,4 @@
-# rickcode
+# Rick Code Roll
 This is another way to implement Rick Roll, this time is HTML.
 
 One of the things that differ Frontend Web development from another fields of programming is that everyone can see your code openly,
